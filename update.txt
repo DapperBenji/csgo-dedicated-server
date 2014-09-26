@@ -1,0 +1,4 @@
+login anonymous
+force_install_dir /home/zeroninja/service1577/csgo-ds
+app_update 740
+exit 
