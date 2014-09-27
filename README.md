@@ -9,6 +9,8 @@ Knife Shop CS:GO: https://forums.alliedmods.net/showthread.php?p=2074268
 
 Steam ID Finder: http://steamidfinder.com/
 
+Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
+
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
