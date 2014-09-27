@@ -7,6 +7,8 @@ Top Plugins:
 
 Knife Shop CS:GO: https://forums.alliedmods.net/showthread.php?p=2074268
 
+Steam ID Finder: http://steamidfinder.com/
+
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
