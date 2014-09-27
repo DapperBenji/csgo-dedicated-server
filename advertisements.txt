@@ -8,21 +8,21 @@
     "2"
     {
         "type"        "S"
-        "text"        "Recrutamento para o time dos TLKs. http://steamcommunity.com/groups/The_Ladykillers"
+        "text"        "{YELLOW} Recrutamento para o time dos TLKs {GREEN} http://steamcommunity.com/groups/The_Ladykillers"
     }
     "3"
     {
          "type"       "S"
-         "text"       "Server administrador por {GREEN}http://steamcommunity.com/groups/The_Ladykillers"
+         "text"       "{YELLOW} Server administrador por {GREEN} http://steamcommunity.com/groups/The_Ladykillers"
     }
     "4"
     {
         "type"		  "S"
-        "text"        "Entre no nosso Forum > http://steamcommunity.com/groups/The_Ladykillers/discussions"
+        "text"        "{YELLOW} Entre no nosso Forum {GREEN} http://steamcommunity.com/groups/The_Ladykillers/discussions"
     }
     "5"
     {
         "type"        "S"
-        "text"        "Este servidor não tolera nem um tipo de preconceito ou trolagem. Enjoy!"
+        "text"        "{RED} Este servidor não tolera nem um tipo de preconceito ou trolagem. Qualquer coisa, leva BAN! {GREEN} Enjoy!"
     }
 }
