@@ -2,27 +2,27 @@
 {
     "1"
     {
-        "type"        "S"
-        "text"        "{GREEN}Penguin's Pub{DEFAULT}: a casual, just for fun, server."
+        "type"        "C"
+        "text"        "TLK Team #BR @ladykillers.tk / Admins: ZeroNinja, _Guirds, Nanaya, Beater e b3k"
     }
     "2"
     {
         "type"        "S"
-        "text"        "Keep the game friendly, be a {GREEN}good sport."
+        "text"        "Recrutamento para o time dos TLKs. http://steamcommunity.com/groups/The_Ladykillers"
     }
     "3"
     {
          "type"       "S"
-         "text"       "Server hosted by {GREEN}http://steamcommunity.com/groups/PenguinsPub"
+         "text"       "Server administrador por {GREEN}http://steamcommunity.com/groups/The_Ladykillers"
     }
     "4"
     {
         "type"		  "S"
-        "text"        "Stats/ranking available at {GREEN}stats.rugc.us{DEFAULT}"
+        "text"        "Entre no nosso Forum > http://steamcommunity.com/groups/The_Ladykillers/discussions"
     }
     "5"
     {
         "type"        "S"
-        "text"        "For a good time, {GREEN}high five your enemies{DEFAULT}."
+        "text"        "Este servidor não tolera nem um tipo de preconceito ou trolagem. Enjoy!"
     }
 }
