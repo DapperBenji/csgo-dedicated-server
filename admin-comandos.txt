@@ -1,0 +1,2 @@
+sm_reloadadmins // reload no arquivo de admins
+sm_admin // menu de admin
