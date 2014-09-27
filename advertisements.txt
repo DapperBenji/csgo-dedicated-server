@@ -13,12 +13,12 @@
     "3"
     {
          "type"       "S"
-         "text"       "{YELLOW} Server administrador por >>>{GREEN} http://steamcommunity.com/groups/The_Ladykillers"
+         "text"       "{YELLOW} Server administrador por >>> {GREEN} http://steamcommunity.com/groups/The_Ladykillers"
     }
     "4"
     {
         "type"		  "S"
-        "text"        "{YELLOW} Entre no nosso Forum >>>{GREEN} http://steamcommunity.com/groups/The_Ladykillers/discussions"
+        "text"        "{YELLOW} Entre no nosso Forum >>> {GREEN} http://steamcommunity.com/groups/The_Ladykillers/discussions"
     }
     "5"
     {
