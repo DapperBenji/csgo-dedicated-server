@@ -6,4 +6,8 @@ sm_admin // menu de admin
 
 # BASIC ADMINS
 
+admins_simple.ini
+"STEAM_0:XXXXX" "abcdefghijklmnz" "MYPassword"
+sm_admin_password "MYPassword"
+
 removeallids // Remove all user IDs from the ban list.
