@@ -19,3 +19,5 @@ Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
 <a href="http://www.gametracker.com/server_info/189.1.171.55:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.55:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+
+<a href="http://www.gametracker.com/pedrohiraoka/" target="_blank"><img src="http://cache.www.gametracker.com/profile/pedrohiraoka/b_460x42_C2E3226-5A6C3E-383F2D-D2E1B5-FF9900-FFCC00.png" border="0"/></a>
