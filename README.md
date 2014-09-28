@@ -11,6 +11,8 @@ Steam ID Finder: http://steamidfinder.com/
 
 Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
 
+Managing your Sourcemod installation: https://wiki.alliedmods.net/Managing_your_sourcemod_installation
+
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
