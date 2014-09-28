@@ -6,6 +6,8 @@ Counter-Strike: Global Offensive Dedicated Servers -  Valve - Steam - VAC
 Top Plugins:
 
 Knife Shop CS:GO: https://forums.alliedmods.net/showthread.php?p=2074268
+AFK Manager: https://forums.alliedmods.net/showthread.php?p=708265
+Simple TK Manager: https://forums.alliedmods.net/showthread.php?t=76347&highlight=antitk
 
 Steam ID Finder: http://steamidfinder.com/
 
