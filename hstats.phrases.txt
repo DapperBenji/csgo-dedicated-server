@@ -1,0 +1,219 @@
+"Phrases"
+{
+	// Text messages
+	
+	"Stats are disabled until there are at least <n> players"
+	{
+		"#format"	"{1:i}"
+		"en"		">> AVISO << Stats estão desativadas até que haja pelo menos {1} jogadores"		
+		"de"		"Stats sind deaktiviert bis mindestens {1} Spieler online sind"
+	}
+	"<x> got <n> <point|s> for team killing <y>"
+	{
+		"#format"	"{1:s},{2:i},{3:t},{4:s}"
+		"en"		"{1} ganhou {2} {3} por ter matado o time {4}"		
+		"de"		"{1} bekommt {2} {3} für Teamkill an {4}"
+	}
+	"plus <n> for domination"
+	{
+		"#format"	"{1:i}"
+		"en"		"+{1} for domination"		
+		"de"		"+{1} für Domination"
+	}
+	"plus <n> for revenge"
+	{
+		"#format"	"{1:i}"
+		"en"		"+{1} for revenge"
+		"de"		"+{1} für Revenge"
+	}
+	"<x> got <n> <point|s><plus_bonus> for killing <y>"
+	{
+		"#format"	"{1:s},{2:i},{3:t},{4:s},{5:s}"
+		"en"		"{1} ganhou {2} {3}{4} por matar {green}{5}"
+		"de"		"{1} bekommt {2} {3}{4} für Kill an {5}"
+	}
+	"<x> got <n> <point|s> for bringing a knife to a gun fight"
+	{
+		"#format"	"{1:s},{2:i},{3:t}"
+		"en"		"{1} perdeu {2} {3} por puxar uma faca para contra uma arma"
+		"de"		"{1} bekommt {2} {3}, weil er ein Messer zur Schiesserei mitgebracht hat"
+	}
+	"You got <n> <point|s> for headshot"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Vc ganhou {1} {2} pelo headshot"		
+		"de"		"Du bekommst {1} {2} für einen Kopfschuss"
+	}
+	"You got <n> <point|s> for dropping the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Vc perdeu {1} {2} por ter derrubado a bomba"
+		"de"		"Du bekommst {1} {2} für das Verlieren der Bombe"
+	}
+	"You got <n> <point|s> for taking the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"You got {1} {2} for taking the bomb"
+		"de"		"Du bekommst {1} {2} für das Tragen der Bombe"
+	}
+	"You got <n> <point|s> for planting the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Vc ganhou {1} {2} por plantar a bomba"		
+		"de"		"Du bekommst {1} {2} für das Legen der Bombe"
+	}
+	"Terrorists got <n> <point|s> for planting the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Terroristas ganharam {1} {2} por plantar a bomba"		
+		"de"		"Die Terroristen bekommen {1} {2} für das Legen der Bombe"
+	}
+	"<x> got <n> <point|s> for defusing the bomb"
+	{
+		"#format"	"{1:s},{2:i},{3:t}"
+		"en"		"{1} ganhou {2} {3} por defusar a bomba"		
+		"de"		"{1} bekommt {2} {3} für das Entschärfen der Bombe"
+	}
+	"Counter-Terrorists got <n> <point|s> for defusing the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"A equipe de Contra-Terroristas ganharam {1} {2} por defusarem a bomba"		
+		"de"		"Die Anti-Terroreinheit bekommt {1} {2} für das Entschärfen der Bombe"
+	}
+	"<x> got <n> <point|s> for killing a hostage"
+	{
+		"#format"	"{1:s},{2:i},{3:t}"
+		"en"		"{1} perdeu {2} {3} por matar um refem"		
+		"de"		"{1} bekommt {2} {3} für das Töten einer Geisel"
+	}
+	"Terrorists got <n> <point|s> for detonating the bomb"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Terroristas ganharam {1} {2} por detonar a bomba"		
+		"de"		"Die Terroristen bekommen {1} {2} für die Explosion der Bombe"
+	}
+	"Counter-Terrorists got <n> <point|s> for rescuing all hostages"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Contra-Terroristas ganharam {1} {2} por resgatarem todos os refens"		
+		"de"		"Die Anti-Terroreinheit bekommt {1} {2} für das Retten der Geiseln"
+	}
+	"You got <n> <point|s> for rescuing a hostage"
+	{
+		"#format"	"{1:i},{2:t}"
+		"en"		"Vc ganhou {1} {2} por resgatar o refen"		
+		"de"		"Du bekommst {1} {2} für das Befreien einer Geisel"
+	}
+	
+	// Menus
+	"kills"
+	{
+		"en"		"mortes"		
+		"de"		"Kills"
+	}
+	"deaths"
+	{
+		"en"		"mortes"		
+		"de"		"Deaths"
+	}
+	"Position <n> of <m>"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Seu Rank: {1} de {2}"
+		"de"		"Platz {1} von {2}"
+	}
+	"points"
+	{
+		"en"		"pontos"		
+		"de"		"Punkte"
+	}
+	"point"
+	{
+		"en"		"ponto"		
+		"de"		"Punkt"
+	}
+	"frags"
+	{
+		"en"		"frags"		
+		"de"		"Frags"
+	}
+	"first"
+	{
+		"en"		"first"		
+		"de"		"Seit"
+	}
+	"Total"
+	{
+		"en"		">> Rank do Servidor <<"		
+		"de"		"Gesamt"
+	}
+	"Session"
+	{
+		"en"		"Partida Atual"		
+		"de"		"Sitzung"
+	}
+	"positions"
+	{
+		"en"		"positions"		
+		"de"		"Plätze"
+	}
+	
+	//settings
+	"Configure HStats"
+	{
+		"en"		"Configure HStats"		
+		"de"		"HStats konfigurieren"
+	}
+	"Automatic Display"
+	{
+		"en"		"Automatic Display"		
+		"de"		"Automatische Anzeige"
+	}
+	"Console Messages"
+	{
+		"en"		"Console Messages"		
+		"de"		"Konsolenmeldungen"
+	}
+	"OFF"
+	{
+		"en"		"OFF"		
+		"de"		"AUS"
+	}
+	"ON"
+	{
+		"en"		"ON"		
+		"de"		"AN"
+	}
+	"Round Start"
+	{
+		"en"		"Round Start"		
+		"de"		"Roundenanfang"
+	}
+	"Round End"
+	{
+		"en"		"Round End"		
+		"de"		"Roundenende"
+	}
+	"Back"
+	{
+		"en"		"Anterior"		
+		"de"		"Zurück"
+	}
+	"Next"
+	{
+		"en"		"Proximo"		
+		"de"		"Weiter"
+	}
+	"Exit"
+	{
+		"en"		"Sair"		
+		"de"		"Ende"
+	}
+	
+	//console
+	"Players total"
+	{
+		"en"		"Players total"		
+		"de"		"Spieler gesamt"
+	}
+}
