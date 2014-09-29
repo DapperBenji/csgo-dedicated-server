@@ -19,6 +19,8 @@ Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftw
 
 Managing your Sourcemod installation: https://wiki.alliedmods.net/Managing_your_sourcemod_installation
 
+Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28sourcemod%29
+
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
