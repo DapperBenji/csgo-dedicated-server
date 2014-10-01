@@ -21,6 +21,8 @@ Managing your Sourcemod installation: https://wiki.alliedmods.net/Managing_your_
 
 Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28sourcemod%29
 
+WarMod [BFG] edition: https://forums.alliedmods.net/showthread.php?t=225474
+
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
