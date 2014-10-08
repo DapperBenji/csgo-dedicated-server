@@ -13,6 +13,8 @@ Simple TK Manager: https://forums.alliedmods.net/showthread.php?t=76347&highligh
 
 H-Stats https://forums.alliedmods.net/showthread.php?t=179798&highlight=stats
 
+SM Parachute https://forums.alliedmods.net/showthread.php?p=580269
+
 Steam ID Finder: http://steamidfinder.com/
 
 Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
