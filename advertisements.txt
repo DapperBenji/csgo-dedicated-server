@@ -1,28 +1,85 @@
+// Advertisements 0.5
+// by Tsunami
+// 
+// Types
+// -----
+// C: Center message
+// H: Hint message
+// M: Menu message
+// S: Say message
+//    - Colors:  {DEFAULT}, {TEAM}, {GREEN}, {LIGHTGREEN}
+//    - Example: {GREEN}Current {LIGHTGREEN}Map: {DEFAULT}{CURRENTMAP}
+// T: Top message
+//    - Colors:  {WHITE},  {RED},  {GREEN}, {BLUE}, {YELLOW}, {PURPLE}, {CYAN},
+//               {ORANGE}, {PINK}, {OLIVE}, {LIME}, {VIOLET}, {LIGHTBLUE}
+//    - Example: {ORANGE} www.domain.com
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
 "Advertisements"
 {
     "1"
     {
         "type"        "C"
-        "text"        "TLK Team #BR @ladykillers.tk / Admins: ZeroNinja, _Guirds, Nanaya, Beater e b3k"
+        "text"        "Bom Jogo! TLK Server #1 #BR @ladykillers.tk FOLLOW > twitch.tv/ZeroNinjaTV"
     }
     "2"
     {
         "type"        "S"
-        "text"        "{YELLOW} Recrutamento para o time dos TLKs >>> {GREEN} http://steamcommunity.com/groups/The_Ladykillers"
+        "text"        ">>> Seja um TLK! Recrutamento do Time: {GREEN} >>> http://steamcommunity.com/groups/The_Ladykillers"
     }
     "3"
     {
          "type"       "S"
-         "text"       "{YELLOW} Server administrador por >>> {GREEN} http://steamcommunity.com/groups/The_Ladykillers"
+         "text"       ">>> Baixe o TeamSpeak (teamspeak.com) e entre no nosso server {GREEN} >>> ts.ladykillers.tk:9502"
     }
     "4"
     {
-        "type"		  "S"
-        "text"        "{YELLOW} Entre no nosso Forum >>> {GREEN} http://steamcommunity.com/groups/The_Ladykillers/discussions"
+        "type"	"S"
+        "text"        ">>> Baixe agora o CS:GO Autoexec.cfg para Profissionais {GREEN} >>> https://pedrohiraoka.github.io/csgo/"
     }
     "5"
     {
         "type"        "S"
-        "text"        "{RED} Este servidor não tolera nem um tipo de preconceito ou trolagem. Qualquer coisa, leva BAN! {GREEN} Enjoy!"
+        "text"        ">>> Este servidor não tolera nem um tipo de PRECONCEITO ou TROLLAGEM. Qualquer coisa, leva BAN ou MUTE! {GREEN} Enjoy! :D"
+    }
+    "6"
+    {
+        "type"	"S"
+        "text"        "TLK Team #BR @ladykillers.tk {GREEN} >>> Admins: ZeroNinja, _Guirds, Prd, Nanaya, Beater, b3k, Deo xtrem, Chico e Gui"
+    }
+    "7"
+    {
+        "type"	"S"
+        "text"        "Add nos seus favoritos e #GOGOGO {GREEN} >>> 189.1.171.55:27015 ou csgo.ladykillers.tk:27015 <<< (Brazil/SP)"
+    }
+    "8"
+    {
+        "type"	"S"
+        "text"        "Super Administrador do Servidor {GREEN} >>> ZeroNinja >>> FOLLOW >>> twitch.tv/ZeroNinjaTV"
+    }
+    "9"
+    {
+        "type"	"S"
+        "text"        "WarMod [Ativado] Digite no CHAT para começar a partida: {GREEN} /ready ou /r"
+    }
+    "10"
+    {
+        "type"	"S"
+        "text"        ">>> RANK DO SERVIDOR <<< {GREEN} Digite: !rank (stats) !top (top jogadores) !scoreboard (jogando agora)"
+    }
+    "11"
+    {
+        "type"	"C"
+        "text"        ">>> RANK <<< Digite: !rank / !top / !scoreboard"
+    }
+    "12"
+    {
+        "type"	"C"
+        "text"        "Entre agora no TeamSpeak Dedicado TLK SERVER >>> ts.ladykillers.tk:9502"
     }
 }
