@@ -13,6 +13,8 @@ Simple TK Manager: https://forums.alliedmods.net/showthread.php?t=76347&highligh
 
 H-Stats https://forums.alliedmods.net/showthread.php?t=179798&highlight=stats
 
+Updater https://forums.alliedmods.net/showthread.php?t=169095
+
 SM Parachute https://forums.alliedmods.net/showthread.php?p=580269
 
 Ultimate Mapchooser 3 https://forums.alliedmods.net/showthread.php?t=134190
