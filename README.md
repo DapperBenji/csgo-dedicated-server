@@ -19,7 +19,7 @@ Updater https://forums.alliedmods.net/showthread.php?t=169095
 
 SM Parachute https://forums.alliedmods.net/showthread.php?p=580269
 
-Ultimate Mapchooser 3 https://forums.alliedmods.net/showthread.php?t=134190
+MapChooser Extended 1.10.2 https://forums.alliedmods.net/showthread.php?t=156974
 
 Steam ID Finder: http://steamidfinder.com/
 
