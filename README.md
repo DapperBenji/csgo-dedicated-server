@@ -33,6 +33,8 @@ Managing your Sourcemod installation: https://wiki.alliedmods.net/Managing_your_
 
 Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28sourcemod%29
 
+csgo-server-launcher.sh https://github.com/crazy-max/csgo-server-launcher
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Game Tracker
