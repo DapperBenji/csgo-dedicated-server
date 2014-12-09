@@ -48,5 +48,6 @@ https://www.gametracker.com/server_info/189.1.171.55:27015/
 
 <a href="http://www.gametracker.com/server_info/181.41.219.88:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/181.41.219.88:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
-<div align="center"> <iframe name="Teste de Velocidade da Internet" height="160" width="160" scrolling="no" frameborder="0" allowtransparency="true" longdesc="http://www.minhaconexao.com.br/mini-velocimetro/description.txt" src="http://www.minhaconexao.com.br/mini-velocimetro/velocimetro.php?model=1&width=160&height=160"></iframe><br /><font size="2" face="Arial"><a href="http://www.minhaconexao.com.br" rel="nofollow" target="_blank" style="text-decoration:none"><b> Velocidade da Internet</b></a></font></div>
+<iframe name="Teste de Velocidade da Internet" height="160" width="160" scrolling="no" frameborder="0" allowtransparency="true" longdesc="http://www.minhaconexao.com.br/mini-velocimetro/description.txt" src="http://www.minhaconexao.com.br/mini-velocimetro/velocimetro.php?model=1&width=160&height=160"></iframe><br /><font size="2" face="Arial"><a href="http://www.minhaconexao.com.br" rel="nofollow" target="_blank" style="text-decoration:none"><b> Velocidade da Internet</b></a></font>
 
+<a href="http://www.gametracker.com/server_info/104.156.230.236:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/104.156.230.236:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
