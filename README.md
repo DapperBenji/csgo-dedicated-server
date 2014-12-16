@@ -53,3 +53,5 @@ https://www.gametracker.com/server_info/189.1.171.55:27015/
 <a href="http://www.gametracker.com/server_info/104.156.230.236:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/104.156.230.236:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.gameserverdirectory.com/server/189.1.171.55:27015/" target="_blank"><img src="http://img.gameserverdirectory.com/banner/189.1.171.55:27015/medium.png" border="0" width="468" height="60" alt=""/></a>
+
+<a href="http://www.game-state.com/189.1.171.55:27015/"><img src="http://www.game-state.com/189.1.171.55:27015/560x95_FFFFFF_3AC728_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" /></a>
