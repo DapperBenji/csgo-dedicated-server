@@ -55,3 +55,5 @@ https://www.gametracker.com/server_info/189.1.171.55:27015/
 <a href="http://www.game-state.com/189.1.171.55:27015/"><img src="http://www.game-state.com/189.1.171.55:27015/560x95_FFFFFF_3AC728_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" /></a>
 
 <a href="http://topg.org/Counter-Strike/in-398069" target="_blank"><img src="http://topg.org/banner.jpg" width="468" height="60" border="0" alt="top counter strike servers"></a>
+
+<img src="http://www.game-state.com/189.1.171.55:27015/stats.png">
