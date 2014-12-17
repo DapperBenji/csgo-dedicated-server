@@ -61,3 +61,5 @@ Ultima 24 horas do server:<br>
 
 Mapas mais jogados:<br>
 <img src="http://cache.www.gametracker.com/images/graphs/server_maps.php?GSID=4529631">
+
+<img src="http://painel.cplgames.com.br/tracker/?q=1577&s=l&t=fff&gl=cc9a24&b=000&gbg=443f44&tc=d45e14&ts=000">
