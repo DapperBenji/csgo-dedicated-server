@@ -25,6 +25,8 @@ Steam ID Finder: http://steamidfinder.com/
 
 WarMod [BFG] edition: https://forums.alliedmods.net/showthread.php?t=225474
 
+SwapTeam: https://forums.alliedmods.net/showthread.php?t=95968
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
