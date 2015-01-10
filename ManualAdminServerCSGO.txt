@@ -11,6 +11,18 @@ USE O COMANDO sm_rcon ANTES DE TODOS OS OUTROS COMANDOS. ELE QUE DA PERMISSAO DE
 
 Digite no console:
 
+COMANDOS SOURCEMOD:
+* sm_ban
+* sm_kick
+* sm_map
+* sm_rcon
+* sm_unban
+* sm_mute
+* sm_say
+* sm_unmute
+* sm_votemap de_dust2 de_inferno de_mirage de_nuke
+* sm_help
+
 MOVENDO JOGADOR DE LUGAR PARA ORGANIZAR A PARTIDA:
 * sm_spec <nickdojogador> - Mudar jogador para espectadores imediatamente
 * sm_team <nickdojogador> <numero do time>
