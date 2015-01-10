@@ -9,9 +9,7 @@ REGRAS DOS ADMINS:
 
 USE O COMANDO sm_rcon ANTES DE TODOS OS OUTROS COMANDOS. ELE QUE DA PERMISSAO DE ADMINISTRADOR PARA RODAR COMANDOS NO CONSOLE.
 
-Digite no console:
-
-COMANDOS SOURCEMOD:
+COMANDOS SOURCEMOD PELO CONSOLE:
 * sm_ban
 * sm_kick
 * sm_map
@@ -21,17 +19,18 @@ COMANDOS SOURCEMOD:
 * sm_say
 * sm_unmute
 * sm_votemap de_dust2 de_inferno de_mirage de_nuke
-* sm_help
+* Digite: sm_help para ver todos os comandos
 
-MOVENDO JOGADOR DE LUGAR PARA ORGANIZAR A PARTIDA:
+MOVENDO JOGADOR DE LUGAR PARA ORGANIZAR A PARTIDA PELO CONSOLE: 
+
 * sm_spec <nickdojogador> - Mudar jogador para espectadores imediatamente
 * sm_team <nickdojogador> <numero do time>
 * sm_swapteam <nickdojogador> - Mudar jogador a equipe oposta imediatamente
 * sm_swapteam_death <nickdojogador> - Alterne jogador a equipe oposta quando morrem
 * sm_swapteam_d <nickdojogador> - Alterne jogador para a equipe oposta quando a rodada termina
 
-COMANDOS DO MIX (Warmod):
-COMANDOS DE ADMINS DO MIX:
+COMANDOS DO MIX NO CHAT (Warmod):
+COMANDOS DE ADMINS DO MIX NO CHAT:
 * /notlive // Cancels half and sets all as unready. Atalhos: /nl /cancelhalf /ch
 * /cancelmatch // CANCELA A PARTIDA INICIADA DO MIX. Atalhos: /cm
 * /forceallready // Forces all players to become ready. Atalhos: /far
@@ -44,8 +43,18 @@ COMANDOS DE ADMINS DO MIX:
 * /knife // ATIVE A RODADA DE FACA. Atalhos: /ko3
 * /cancelknife // CANCELE A RODADE DE FACA. Atalhos: /ck
 
-COMANDOS DOS JOGADORES DO MIX:
+COMANDOS DOS JOGADORES DO MIX NO CHAT:
 * /ready // Marks you ready if /readyup has been done or wm_autoready is 1. Atalhos: /rdy /r
 * /unready // Marks you not ready if /readyup has been done or wm_autoready is 1. Atalhos: /notready /unrdy /notrdy /ur /nr
 * /scores // Displays score if live. Atalhos: /score /s
 * /info // Display who the ready panel if closed. Atalhos: /i
+
+>>>>>>>>>> COMO RODAR O MIX PELO CONSOLE <<<<<<<<<<
+
+1º: RODAR O AQUECIMENTO PARA TODOS FICAREM COM 16000 DE GRANA: sm_rcon warmup
+2º: ESPERAR DAR 5x5 PARA COMECAR O MIX
+2º: ORGANIZAR OS JOGADORES, SE NECESSARIO, TROCANDO ELES DE TIME OU MANDANDO PARA SPEC
+3º: PEDIR PARA OS JOGADORES DIGITAREM /READY OU .R
+4º: SE OS JOGADORES NAO APERTAREM, VOCE DEVE FORCAR O MIX: sm_rcon forcestart
+5º: ASSIM QUE A PARTIDA ACABAR, CRIE UM VOTEMAP PARA OS JOGADORES ESCOLHEREM UM MAPA: sm_rcon sm_votemap de_inferno de_dust de_mirage de_nuke
+* Se os jogadores estiverem pedindo o round faca, só digitar: sm_rcon knife
