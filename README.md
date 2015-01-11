@@ -3,7 +3,7 @@ csgo-dedicated-server
 
 Counter-Strike: Global Offensive Dedicated Servers -  Valve - Steam - VAC
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Top Plugins:
 
@@ -27,7 +27,17 @@ WarMod [BFG] edition: https://forums.alliedmods.net/showthread.php?t=225474
 
 SwapTeam: https://forums.alliedmods.net/showthread.php?t=95968
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+VAC Status Checker: https://forums.alliedmods.net/showthread.php?t=80942
+
+H-Reserved (Advanced Reserved Slots): https://forums.alliedmods.net/showthread.php?t=61913
+
+Ban disconnected players: https://forums.alliedmods.net/showthread.php?t=135533
+
+SM Addadmin: https://forums.alliedmods.net/showthread.php?t=57829
+
+Last Man: https://forums.alliedmods.net/showthread.php?t=58539
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
 
@@ -37,12 +47,12 @@ Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28source
 
 csgo-server-launcher.sh https://github.com/crazy-max/csgo-server-launcher
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Game Tracker
 https://www.gametracker.com/server_info/189.1.171.55:27015/
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 <a href="http://www.gametracker.com/server_info/189.1.171.55:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.55:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
