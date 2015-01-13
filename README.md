@@ -67,9 +67,7 @@ https://www.gametracker.com/server_info/189.1.171.55:27015/
 <a href="http://topg.org/Counter-Strike/in-398069" target="_blank"><img src="http://topg.org/banner.jpg" width="468" height="60" border="0" alt="top counter strike servers"></a>
 
 Ultima 24 horas do server:<br>
-<img src="http://www.game-state.com/189.1.171.55:27015/stats.png">
+<img src="http://cache.www.gametracker.com/images/graphs/server_players.php?GSID=4674973&start=-1d">
 
 Mapas mais jogados:<br>
-<img src="http://cache.www.gametracker.com/images/graphs/server_maps.php?GSID=4529631">
-
-<img src="http://painel.cplgames.com.br/tracker/?q=1577&s=l&t=fff&gl=cc9a24&b=000&gbg=443f44&tc=d45e14&ts=000">
+<img src="http://cache.www.gametracker.com/images/graphs/server_maps.php?GSID=4674973"> 
