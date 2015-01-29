@@ -1,6 +1,8 @@
 csgo-dedicated-server
 =====================
 
+"STEAM_0:0:14543978" "z:99"
+
 Counter-Strike: Global Offensive Dedicated Servers -  Valve - Steam - VAC
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
