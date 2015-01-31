@@ -25,7 +25,7 @@ MapChooser Extended 1.10.2 https://forums.alliedmods.net/showthread.php?t=156974
 
 Steam ID Finder: http://steamidfinder.com/
 
-WarMod [BFG] edition: https://forums.alliedmods.net/showthread.php?t=225474 / https://github.com/goonpug/goonpug
+WarMod [BFG] edition: https://forums.alliedmods.net/showthread.php?t=225474 / https://github.com/goonpug/goonpug / https://github.com/splewis/csgo-pug-setup
 
 SwapTeam: https://forums.alliedmods.net/showthread.php?t=95968
 
