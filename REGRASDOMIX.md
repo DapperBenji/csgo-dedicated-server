@@ -10,7 +10,7 @@ REGRAS DO MIX - ZERONINJA SERVER
 8. Não saia da partida no meio. Seja um jogador com ética.
 9. Divirta-se!
 
-AVISO: Se você entrar e um jogo já estiver rolando. Espere no SPEC uma vaga para você entrar. Qualquer dúvida, pergunte no CHAT que um jogador mais antigo vai te explicar.
+AVISO: Se você entrar e um jogo que já estiver começado. Espere no SPEC uma vaga para você entrar. Qualquer dúvida, pergunte no CHAT que um jogador mais antigo vai te explicar.
 
 É proibido, falar palavrões, gritar, humilhar, um jogador. Qualquer problema você pode levar BAN PERMANENTE.
 
