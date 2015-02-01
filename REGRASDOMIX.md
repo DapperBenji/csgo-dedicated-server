@@ -9,3 +9,15 @@ REGRAS DO MIX - ZERONINJA SERVER
 7. Na hora de mudar de lado no mapa, todos devem digitar novamente o comando (!ready ou .ready).
 8. Não saia da partida no meio. Seja um jogador com ética.
 9. Divirta-se!
+
+AVISO: Se você entrar e um jogo já estiver rolando. Espere no SPEC uma vaga para você entrar. Qualquer dúvida, pergunte no CHAT que um jogador mais antigo vai te explicar.
+
+É proibido, falar palavrões, gritar, humilhar, um jogador. Qualquer problema você pode levar BAN PERMANENTE.
+
+Se você quiser ajudar o servidor doando qualquer quantia, fale com o ZeroNinja para saber como.
+
+Obrigado!
+
+Att,
+
+ZeroNinja.
