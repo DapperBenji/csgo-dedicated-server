@@ -69,7 +69,7 @@ https://www.gametracker.com/server_info/189.1.171.55:27015/
 
 <iframe name="Teste de Velocidade da Internet" height="160" width="160" scrolling="no" frameborder="0" allowtransparency="true" longdesc="http://www.minhaconexao.com.br/mini-velocimetro/description.txt" src="http://www.minhaconexao.com.br/mini-velocimetro/velocimetro.php?model=1&width=160&height=160"></iframe><br /><font size="2" face="Arial"><a href="http://www.minhaconexao.com.br" rel="nofollow" target="_blank" style="text-decoration:none"><b> Velocidade da Internet</b></a></font>
 
-<a href="http://www.gameserverdirectory.com/server/189.1.171.55:27015/" target="_blank"><img src="http://img.gameserverdirectory.com/banner/189.1.171.55:27015/medium.png" border="0" width="468" height="60" alt=""/></a>
+<a href="http://www.gameserverdirectory.com/server/189.1.171.47:27018/" target="_blank"><img src="http://img.gameserverdirectory.com/banner/189.1.171.47:27018/medium.png" border="0" width="468" height="60" alt=""/></a>
 
 <a href="http://www.game-state.com/189.1.171.47:27018/"><img src="http://www.game-state.com/189.1.171.47:27018/160x270_FFFFFF_575757_.png" alt="www.Game-State.com" style="border-style: none;" /></a>
 
