@@ -55,7 +55,7 @@ csgo-server-launcher.sh https://github.com/crazy-max/csgo-server-launcher
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Game Tracker
-https://www.gametracker.com/server_info/189.1.171.55:27015/
+http://www.gametracker.com/server_info/189.1.171.47:27018/
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
