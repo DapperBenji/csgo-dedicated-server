@@ -59,6 +59,8 @@ http://www.gametracker.com/server_info/189.1.171.47:27018/
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+<img src="http://zeroninja.gameme.com/sig/77_1002.png">
+
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_160_400_1_ffffff_c5c5c5_ffffff_000000_0_1_0.png" border="0" width="160" height="248" alt=""/></a>
 
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
