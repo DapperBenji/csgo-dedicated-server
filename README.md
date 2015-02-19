@@ -52,6 +52,10 @@ Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28source
 
 csgo-server-launcher.sh https://github.com/crazy-max/csgo-server-launcher
 
+O guia CS:GO Like a Pro http://csgolikeapro.com/index.php?title=Guide/pt
+
+Counter-Strike: Global Offensive rules http://files.dreamhack.se/rules/DHS13_CSGO_Rules.pdf
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Game Tracker
