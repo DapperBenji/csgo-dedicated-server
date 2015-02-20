@@ -67,6 +67,8 @@ http://www.gametracker.com/server_info/189.1.171.47:27018/
 
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_160_400_1_ffffff_c5c5c5_ffffff_000000_0_1_0.png" border="0" width="160" height="248" alt=""/></a>
 
+<a href="http://www.gametracker.com/server_info/181.41.212.73:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/181.41.212.73:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_350_20_692108_381007_FFFFFF_000000.png" border="0" width="350" height="20" alt=""/></a>
