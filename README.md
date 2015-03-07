@@ -42,6 +42,8 @@ SM Addadmin: https://forums.alliedmods.net/showthread.php?t=57829
 
 Last Man: https://forums.alliedmods.net/showthread.php?t=58539
 
+Anti-Reconnect: https://forums.alliedmods.net/showthread.php?t=79872
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers
