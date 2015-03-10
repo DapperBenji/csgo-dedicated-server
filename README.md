@@ -60,6 +60,8 @@ O guia CS:GO Like a Pro http://csgolikeapro.com/index.php?title=Guide/pt
 
 Counter-Strike: Global Offensive rules http://files.dreamhack.se/rules/DHS13_CSGO_Rules.pdf
 
+Command Line Options: https://developer.valvesoftware.com/wiki/Command_Line_Options
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Game Tracker
