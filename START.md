@@ -52,6 +52,8 @@ Counter-Strike: Global Offensive Dedicated Servers: https://developer.valvesoftw
 
 Managing your Sourcemod installation: https://wiki.alliedmods.net/Managing_your_sourcemod_installation
 
+Adding Admins (SourceMod): https://wiki.alliedmods.net/Adding_Admins_(SourceMod)
+
 Admin commands (sourcemod): https://wiki.alliedmods.net/Admin_commands_%28sourcemod%29
 
 csgo-server-launcher.sh https://github.com/crazy-max/csgo-server-launcher
