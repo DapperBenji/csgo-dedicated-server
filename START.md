@@ -1,7 +1,7 @@
 csgo-dedicated-server
 =====================
 
-"STEAM_0:0:14543978" "z:99" // sm_reloadadmins
+"" "z:99" // sm_reloadadmins
 
 Counter-Strike: Global Offensive Dedicated Servers -  Valve - Steam - VAC
 
