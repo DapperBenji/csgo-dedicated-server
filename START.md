@@ -9,6 +9,8 @@ Counter-Strike: Global Offensive Dedicated Servers -  Valve - Steam - VAC
 
 Top Plugins:
 
+csgo-retakes: https://github.com/splewis/csgo-retakes
+
 Knife Upgrade: https://forums.alliedmods.net/showthread.php?t=243254
 
 AFK Manager: https://forums.alliedmods.net/showthread.php?p=708265
