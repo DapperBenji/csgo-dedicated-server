@@ -34,6 +34,8 @@ SwapTeam: https://forums.alliedmods.net/showthread.php?t=95968
 Teams Management Commands: https://forums.alliedmods.net/showthread.php?t=182474
 Teams Management Interface: https://forums.alliedmods.net/showthread.php?t=182471
 
+[CS:GO] Fake Competitive Rank and Coins (v1.2 - 2015-06-13) https://forums.alliedmods.net/showthread.php?t=258753
+
 VAC Status Checker: https://forums.alliedmods.net/showthread.php?t=80942
 
 H-Reserved (Advanced Reserved Slots): https://forums.alliedmods.net/showthread.php?t=61913
